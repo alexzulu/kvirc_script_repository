@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono&amp;subset=cyrillic,cyrillic-ext);
+body {
+	font-size: 12px;
+	margin: 0px 30px;
+	font-family: 'Roboto Mono', monospace;
+/*	text-align: center;*/
+}
+
+a {
+	color: #0000FF;
+	text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th {
+	border: 1px solid silver;
+    text-align: center;
+	font-weight: bold;
+	width: 33%;
+}
+
+table.links {
+    border: hidden;
+    margin: auto;
+	width: 80%;
+}
+
+td.links {
+	text-align: center;
+	width: 33%;
+}
+
+td.data {
+	border: 1px solid silver;
+	text-align: center;
+}
+
+tr.header {
+	border: none;
+	text-align: center;
+}
+
+#footer {
+	clear: both;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+}

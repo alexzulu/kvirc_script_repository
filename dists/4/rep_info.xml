@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<repository>
+    <addon>
+		<name>repository_browser_updater</name>
+		<version>1.0.0</version>
+		<title>Repository browser updater</title>
+		<description>Special script for updating Repository browser</description>
+        <description_ru>Специальный скрипт для обновления Браузера репозитория</description_ru>
+		<minimal_version_kvirc>4.2.0</minimal_version_kvirc>
+		<date>04.09.2017</date>
+		<author>alexzulu</author>
+        <zip>0</zip>
+		<group>Tools</group>
+		<image>0</image>
+	</addon>
+    <addon>
+		<name>repository_browser</name>
+		<version>3.0.8</version>
+		<title>Repository browser</title>
+		<description_ru>Браузер репозитория.</description_ru>
+		<description>Repository browser.</description>
+		<minimal_version_kvirc>4.2.0</minimal_version_kvirc>
+		<date>18.01.2017</date>
+		<author>alexzulu</author>
+		<zip>1</zip>
+		<group>Tools</group>
+		<image>1</image>
+	</addon>
+</repository>

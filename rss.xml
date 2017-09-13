@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+	<channel>
+		<title>alexzulu&#039;s KVIrc scripts repository</title>
+		<atom:link href="http://kvirc.alexzulu.ru/rss.xml" rel="self" type="application/rss+xml" />
+		<link>http://kvirc.alexzulu.ru</link>
+		<description>KVIrc scripts repository | Репозиторий дополнений KVIrc</description>
+        <item>
+			<title>Repository browser for Linux 3.0.0</title>
+			<pubDate>Fri, 04 Nov 2016 23:44:19 +0300</pubDate>
+			<description><![CDATA[Repository browser for Linux]]></description>
+			<content:encoded><![CDATA[<p>Repository browser for Linux</p>]]></content:encoded>
+		</item>
+        <item>
+			<title>Hell Mediaplayer 0.1.0</title>
+			<pubDate>Fri, 04 Nov 2016 03:11:29 +0300</pubDate>
+			<description><![CDATA[A simple script for announcing mp3s that are played by someone]]></description>
+			<content:encoded><![CDATA[<p>A simple script for announcing mp3s that are played by someone</p>]]></content:encoded>
+		</item>
+		<item>
+			<title>Install.kvs generator 2.0.2</title>
+			<pubDate>Sun, 16 Oct 2016 10:57:31 +0300</pubDate>
+            <description><![CDATA[The script to automatically create an installer file install.kvs. Added function to create a unit for RSS <br />Скрипт для автоматического создания файла инсталлятора install.kvs.Добавлена функция создания блока для RSS.]]></description>
+            <content:encoded><![CDATA[<p>The script to automatically create an installer file install.kvs. Added function to create a unit for RSS </p><p>Скрипт для автоматического создания файла инсталлятора install.kvs.Добавлена функция создания блока для RSS.</p>]]></content:encoded>
+		</item>
+	</channel>
+</rss>
